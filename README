@@ -1,0 +1,29 @@
+Ceci est un petit exemple pour aider mes amis à apprendre à programmer en Python.
+
+En gros c'est un jeu de Tic Tac Toe.  L'intelligence artificielle de l'ordinateur est très
+déficiente et aurait besoins d'un peu d'aide de la part des nouveaux élèves.
+
+Pour ce faire, aller voir le fichier game.py, trouvez-y la classe "Computer" et améliorer 
+la méthode "play".  Vous devrez apprendre à faire des boucles et des conditions.
+
+[TODO: trouver une référence de lecture à faire pour maîtriser les concepts de base:
+ - indentation
+ - :
+ - for
+ - if
+ - def
+ - class]
+
+Pour rendre les choses intéressantes, j'ai fabriquer une interface graphique au jeu 
+de Tic Tac Toe.  Rien de très élaboré.  Pas besoins d'essayer de comprendre dans un 
+premier temps.  Pour lancer l'interface graphique et ainsi lancer le programme, il
+suffit de lancer le fichier ui.py.  La méthode pour lancer ui.py dépend de votre 
+environnement.  Dans l'environnement IDLE, ouvrez le fichier et appuyez sur F5.
+
+Tout ce que vous avez besoins pour partir votre développement est Python (à peu près 
+n'importe quel version) et un PySide correspondant.  Assurez-vous d'avoir une paire
+qui vont ensemble avant d'installer Python.  Python doit être installer en premier
+et PySide en deuxième.
+
+Pour ma part, j'ai utiliser Python 2.7 et PySide (Qt=4.8) 1.1.2 sur Mac OS X.
+
